@@ -4,4 +4,4 @@
 
 <h2>Ekran Görüntüsü</h2>
 
-![](filmgif.gif)
+![]{ekran.gif}
